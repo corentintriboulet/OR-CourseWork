@@ -1,4 +1,4 @@
-# RO-CourseWork
+# OR-CourseWork
 Operation Research course work at Centrale Lyon 
 
 ## Objectives
